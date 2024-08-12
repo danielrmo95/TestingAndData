@@ -1,0 +1,7 @@
+2024/08/12-11:07:37.629 5928 Reusing MANIFEST C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/12-11:07:37.630 5928 Recovering log #4
+2024/08/12-11:07:37.634 5928 Reusing old log C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/000004.log 
+2024/08/12-11:07:37.799 5928 Level-0 table #8: started
+2024/08/12-11:07:37.804 5928 Level-0 table #8: 1404 bytes OK
+2024/08/12-11:07:37.806 5928 Delete type=0 #4
+2024/08/12-11:07:37.807 5928 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
