@@ -1,66 +1,342 @@
-[22312:19688:0812/115122.532:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 127.0.6533.100 (not a warning)
-[22312:19688:0812/115122.611:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[22312:19688:0812/115122.633:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
-[15460:16728:0812/115122.885:INFO:cpu_info.cc(53)] Available number of cores: 8
-[20648:11816:0812/115122.941:INFO:cpu_info.cc(53)] Available number of cores: 8
-[6804:21896:0812/115123.312:INFO:cpu_info.cc(53)] Available number of cores: 8
-[12900:27156:0812/115123.529:INFO:cpu_info.cc(53)] Available number of cores: 8
-[22312:19688:0812/115124.288:INFO:CONSOLE(2)] "Error", source: https://js.datadome.co/tags.js (2)
-[22312:19688:0812/115124.716:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
-[22312:19688:0812/115124.716:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
-[35548:32988:0812/115125.162:INFO:cpu_info.cc(53)] Available number of cores: 8
-[25432:1732:0812/115125.228:INFO:cpu_info.cc(53)] Available number of cores: 8
-[4400:27104:0812/115126.131:INFO:cpu_info.cc(53)] Available number of cores: 8
-[22312:19688:0812/115126.148:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
-[22312:19688:0812/115126.148:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
-[22312:19688:0812/115126.161:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
-[22312:19688:0812/115126.162:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
-[6552:26124:0812/115126.270:INFO:cpu_info.cc(53)] Available number of cores: 8
-[22312:19688:0812/115126.364:INFO:CONSOLE(158)] "[GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment", source: https://accounts.google.com/gsi/client (158)
-[22312:19688:0812/115126.366:INFO:CONSOLE(0)] "Not signed in with the identity provider.", source: https://www.despegar.com.co/ (0)
-[35548:26192:0812/115126.453:INFO:peer_connection_dependency_factory.cc(711)] Running WebRTC with a combined Network and Worker thread.
-[35548:26192:0812/115126.454:INFO:webrtc_voice_engine.cc(355)] WebRtcVoiceEngine::WebRtcVoiceEngine
-[35548:26696:0812/115126.454:INFO:webrtc_voice_engine.cc(377)] WebRtcVoiceEngine::Init
-[35548:26696:0812/115126.454:INFO:webrtc_voice_engine.cc(479)] WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 200, audio_jitter_buffer_fast_accelerate: 0, audio_jitter_buffer_min_delay_ms: 0, }
-[35548:26696:0812/115126.454:INFO:peer_connection_factory.cc(343)] Using default network controller factory
-[35548:26696:0812/115126.454:INFO:bitrate_prober.cc(48)] Bandwidth probing enabled, set to inactive
-[35548:26696:0812/115126.454:INFO:transport_sequence_number_feedback_generator.cc(69)] Maximum interval between transport feedback RTCP messages: 250 ms
-[35548:26696:0812/115126.455:INFO:aimd_rate_control.cc(87)] Using aimd rate control with back off factor 0.85
-[35548:26696:0812/115126.455:INFO:remote_bitrate_estimator_single_stream.cc(53)] RemoteBitrateEstimatorSingleStream: Instantiating.
-[30708:16188:0812/115126.914:INFO:cpu_info.cc(53)] Available number of cores: 8
-[30604:1532:0812/115127.063:INFO:cpu_info.cc(53)] Available number of cores: 8
-[35548:26192:0812/115127.461:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[35548:26696:0812/115127.461:INFO:openssl_key_pair.cc(40)] Making key pair
-[35548:26696:0812/115127.461:INFO:openssl_key_pair.cc(93)] Returning key pair
-[35548:26696:0812/115127.461:INFO:boringssl_certificate.cc(189)] Making certificate for WebRTC
-[35548:26696:0812/115127.462:INFO:boringssl_certificate.cc(245)] Returning certificate
-[22312:19688:0812/115127.467:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
-[22312:19688:0812/115127.467:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
-[35548:26696:0812/115127.473:INFO:p2p_transport_channel.cc(517)] Set backup connection ping interval to 25000 milliseconds.
-[35548:26696:0812/115127.473:INFO:p2p_transport_channel.cc(526)] Set ICE receiving timeout to 2500 milliseconds
-[35548:26696:0812/115127.473:INFO:p2p_transport_channel.cc(533)] Set ping most likely connection to 0
-[35548:26696:0812/115127.473:INFO:p2p_transport_channel.cc(540)] Set stable_writable_connection_ping_interval to 2500
-[35548:26696:0812/115127.473:INFO:p2p_transport_channel.cc(553)] Set presume writable when fully relayed to 0
-[35548:26696:0812/115127.473:INFO:p2p_transport_channel.cc(571)] Set regather_on_failed_networks_interval to 300000
-[35548:26696:0812/115127.473:INFO:p2p_transport_channel.cc(578)] Set receiving_switching_delay to 1000
-[35548:26696:0812/115127.473:INFO:jsep_transport_controller.cc(1086)] Creating DtlsSrtpTransport.
-[35548:26696:0812/115127.473:INFO:dtls_srtp_transport.cc(71)] Setting RTP Transport on 0 transport 000041A8012B6800
-[35548:26696:0812/115127.473:INFO:p2p_transport_channel.cc(451)] Set ICE ufrag: SPKm pwd: kgIr9QzlnlyN9mQ2nJ/9VMeM on transport 0
-[35548:26192:0812/115127.473:INFO:peer_connection.cc(2079)] Creating data channel, mid=0
-[35548:26192:0812/115127.473:INFO:sdp_offer_answer.cc(2888)] Session: 2182888938806007535 Old state: stable New state: have-local-offer
-[35548:26696:0812/115127.473:INFO:basic_port_allocator.cc(379)] Start getting ports with turn_port_prune_policy 0
-[27308:25228:0812/115127.991:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
-[27308:25228:0812/115127.991:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
-[22312:19688:0812/115128.313:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(823)] Allocate ports on any any 
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(913)] Network manager has started
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(1424)] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Udp
-[35548:26696:0812/115128.338:INFO:port.cc(138)] Port[1b26800::1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(1506)] AllocationSequence: UDPPort will be handling the STUN candidate generation.
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(956)] Port[1b26800:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(1424)] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Udp
-[35548:26696:0812/115128.338:INFO:port.cc(138)] Port[1b26400::1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(1506)] AllocationSequence: UDPPort will be handling the STUN candidate generation.
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
-[35548:26696:0812/115128.338:INFO:basic_port_allocator.cc(956)] Port[1b26400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[9836:21348:0812/134833.055:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 127.0.6533.100 (not a warning)
+[9836:21348:0812/134833.206:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[9836:21348:0812/134833.233:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[34200:33308:0812/134833.863:INFO:cpu_info.cc(53)] Available number of cores: 8
+[36664:2376:0812/134833.870:INFO:cpu_info.cc(53)] Available number of cores: 8
+[21976:18096:0812/134834.956:INFO:cpu_info.cc(53)] Available number of cores: 8
+[29756:16460:0812/134835.423:INFO:cpu_info.cc(53)] Available number of cores: 8
+[9836:21348:0812/134835.652:INFO:CONSOLE(2)] "Error", source: https://js.datadome.co/tags.js (2)
+[9836:21348:0812/134836.834:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[9836:21348:0812/134836.835:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[22868:3208:0812/134837.056:INFO:cpu_info.cc(53)] Available number of cores: 8
+[15104:27604:0812/134837.182:INFO:cpu_info.cc(53)] Available number of cores: 8
+[26896:29016:0812/134837.799:INFO:cpu_info.cc(53)] Available number of cores: 8
+[23060:2948:0812/134837.992:INFO:cpu_info.cc(53)] Available number of cores: 8
+[9836:21348:0812/134838.158:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
+[9836:21348:0812/134838.158:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
+[9836:21348:0812/134838.158:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
+[9836:21348:0812/134838.158:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
+[9836:21348:0812/134838.185:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[22868:25276:0812/134838.319:INFO:peer_connection_dependency_factory.cc(711)] Running WebRTC with a combined Network and Worker thread.
+[22868:25276:0812/134838.320:INFO:webrtc_voice_engine.cc(355)] WebRtcVoiceEngine::WebRtcVoiceEngine
+[22868:30952:0812/134838.320:INFO:webrtc_voice_engine.cc(377)] WebRtcVoiceEngine::Init
+[22868:30952:0812/134838.322:INFO:webrtc_voice_engine.cc(479)] WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 200, audio_jitter_buffer_fast_accelerate: 0, audio_jitter_buffer_min_delay_ms: 0, }
+[22868:30952:0812/134838.323:INFO:peer_connection_factory.cc(343)] Using default network controller factory
+[22868:30952:0812/134838.323:INFO:bitrate_prober.cc(48)] Bandwidth probing enabled, set to inactive
+[22868:30952:0812/134838.323:INFO:transport_sequence_number_feedback_generator.cc(69)] Maximum interval between transport feedback RTCP messages: 250 ms
+[22868:30952:0812/134838.323:INFO:aimd_rate_control.cc(87)] Using aimd rate control with back off factor 0.85
+[22868:30952:0812/134838.323:INFO:remote_bitrate_estimator_single_stream.cc(53)] RemoteBitrateEstimatorSingleStream: Instantiating.
+[35412:36304:0812/134838.603:INFO:cpu_info.cc(53)] Available number of cores: 8
+[22868:25276:0812/134839.041:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22868:30952:0812/134839.042:INFO:openssl_key_pair.cc(40)] Making key pair
+[22868:30952:0812/134839.042:INFO:openssl_key_pair.cc(93)] Returning key pair
+[22868:30952:0812/134839.042:INFO:boringssl_certificate.cc(189)] Making certificate for WebRTC
+[22868:30952:0812/134839.042:INFO:boringssl_certificate.cc(245)] Returning certificate
+[9836:21348:0812/134839.049:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[9836:21348:0812/134839.049:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[22868:30952:0812/134839.061:INFO:p2p_transport_channel.cc(517)] Set backup connection ping interval to 25000 milliseconds.
+[22868:30952:0812/134839.061:INFO:p2p_transport_channel.cc(526)] Set ICE receiving timeout to 2500 milliseconds
+[22868:30952:0812/134839.061:INFO:p2p_transport_channel.cc(533)] Set ping most likely connection to 0
+[22868:30952:0812/134839.061:INFO:p2p_transport_channel.cc(540)] Set stable_writable_connection_ping_interval to 2500
+[22868:30952:0812/134839.061:INFO:p2p_transport_channel.cc(553)] Set presume writable when fully relayed to 0
+[22868:30952:0812/134839.061:INFO:p2p_transport_channel.cc(571)] Set regather_on_failed_networks_interval to 300000
+[22868:30952:0812/134839.061:INFO:p2p_transport_channel.cc(578)] Set receiving_switching_delay to 1000
+[22868:30952:0812/134839.061:INFO:jsep_transport_controller.cc(1086)] Creating DtlsSrtpTransport.
+[22868:30952:0812/134839.061:INFO:dtls_srtp_transport.cc(71)] Setting RTP Transport on 0 transport 0000024C012A1600
+[22868:30952:0812/134839.062:INFO:p2p_transport_channel.cc(451)] Set ICE ufrag: TtB0 pwd: ZNBRJGId2HvYUMr0rYJF09eW on transport 0
+[22868:25276:0812/134839.062:INFO:peer_connection.cc(2079)] Creating data channel, mid=0
+[22868:25276:0812/134839.062:INFO:sdp_offer_answer.cc(2888)] Session: 7754491905657396168 Old state: stable New state: have-local-offer
+[22868:30952:0812/134839.062:INFO:basic_port_allocator.cc(379)] Start getting ports with turn_port_prune_policy 0
+[22868:30952:0812/134839.845:INFO:basic_port_allocator.cc(823)] Allocate ports on any any 
+[22868:30952:0812/134839.845:INFO:basic_port_allocator.cc(913)] Network manager has started
+[22868:30952:0812/134839.846:INFO:basic_port_allocator.cc(1424)] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Udp
+[22868:30952:0812/134839.846:INFO:port.cc(138)] Port[1b32000::1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[22868:30952:0812/134839.846:INFO:basic_port_allocator.cc(1506)] AllocationSequence: UDPPort will be handling the STUN candidate generation.
+[22868:30952:0812/134839.846:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[22868:30952:0812/134839.846:INFO:basic_port_allocator.cc(956)] Port[1b32000:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[22868:30952:0812/134839.846:INFO:basic_port_allocator.cc(1424)] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Udp
+[22868:30952:0812/134839.846:INFO:port.cc(138)] Port[1b31c00::1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[22868:30952:0812/134839.846:INFO:basic_port_allocator.cc(1506)] AllocationSequence: UDPPort will be handling the STUN candidate generation.
+[22868:30952:0812/134839.846:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[22868:30952:0812/134839.846:INFO:basic_port_allocator.cc(956)] Port[1b31c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(1424)] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Relay
+[22868:30952:0812/134839.900:INFO:port.cc(138)] Port[1460400::1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(956)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[22868:30952:0812/134839.900:INFO:turn_port.cc(866)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting TURN host lookup for aa.online-metrix.net:3478
+[22868:30952:0812/134839.900:INFO:port.cc(138)] Port[145fe00::1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(956)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[22868:30952:0812/134839.900:INFO:turn_port.cc(866)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting TURN host lookup for aa.online-metrix.net:3478
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(1424)] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Relay
+[22868:30952:0812/134839.900:INFO:port.cc(138)] Port[1461000::1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(956)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[22868:30952:0812/134839.900:INFO:turn_port.cc(866)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting TURN host lookup for aa.online-metrix.net:3478
+[22868:30952:0812/134839.900:INFO:port.cc(138)] Port[1460a00::1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[22868:30952:0812/134839.900:INFO:basic_port_allocator.cc(956)] Port[1460a00:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[22868:30952:0812/134839.900:INFO:turn_port.cc(866)] Port[1460a00:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting TURN host lookup for aa.online-metrix.net:3478
+[22868:30952:0812/134840.172:INFO:basic_port_allocator.cc(1424)] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Tcp
+[22868:30952:0812/134840.172:INFO:port.cc(138)] Port[1b38a80::1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[22868:30952:0812/134840.172:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[22868:30952:0812/134840.172:INFO:basic_port_allocator.cc(956)] Port[1b38a80:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[22868:30952:0812/134840.172:INFO:tcp_port.cc(177)] Port[1b38a80:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Not listening due to firewall restrictions.
+[22868:30952:0812/134840.172:INFO:basic_port_allocator.cc(1424)] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Tcp
+[22868:30952:0812/134840.172:INFO:port.cc(138)] Port[1b3b100::1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[22868:30952:0812/134840.172:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[22868:30952:0812/134840.172:INFO:basic_port_allocator.cc(956)] Port[1b3b100:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[22868:30952:0812/134840.172:INFO:tcp_port.cc(177)] Port[1b3b100:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Not listening due to firewall restrictions.
+[30908:33228:0812/134840.262:ERROR:socket_manager.cc(141)] Failed to resolve address for aa.online-metrix.net., errorcode: -105
+[30908:33228:0812/134840.262:ERROR:socket_manager.cc(141)] Failed to resolve address for aa.online-metrix.net., errorcode: -105
+[22868:30952:0812/134840.416:INFO:stun_port.cc(431)] Port[1b32000:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting STUN host lookup for aa.online-metrix.net:3478
+[22868:30952:0812/134840.416:INFO:stun_port.cc(431)] Port[1b31c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting STUN host lookup for aa.online-metrix.net:3478
+[22868:30952:0812/134840.416:INFO:basic_port_allocator.cc(973)] Port[1b38a80:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:1148717942:1:tcp:1509957375:4870a588-675a-4825-a585-45e246da4c8c.local:9:host::0:TtB0:ZNBRJGId2HvYUMr0rYJF09eW:0:999:0]
+[22868:30952:0812/134840.416:INFO:basic_port_allocator.cc(1006)] Port[1b38a80:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[22868:30952:0812/134840.416:INFO:basic_port_allocator.cc(1017)] Discarding candidate because it doesn't match filter.
+[22868:30952:0812/134840.416:INFO:basic_port_allocator.cc(1118)] Port[1b38a80:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[22868:30952:0812/134840.416:INFO:turn_port.cc(431)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Trying to connect to TURN server via tcp @ aa.online-metrix.net:3478 (192.225.158.x:3478)
+[22868:30952:0812/134840.419:INFO:basic_port_allocator.cc(973)] Port[1b3b100:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:1096281997:1:tcp:1509949951:8c5ae9ff-e5f9-4b39-81d4-b349a4cc65aa.local:9:host::0:TtB0:ZNBRJGId2HvYUMr0rYJF09eW:0:999:0]
+[22868:30952:0812/134840.419:INFO:basic_port_allocator.cc(1006)] Port[1b3b100:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+[22868:30952:0812/134840.419:INFO:basic_port_allocator.cc(1017)] Discarding candidate because it doesn't match filter.
+[22868:30952:0812/134840.419:INFO:basic_port_allocator.cc(1118)] Port[1b3b100:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[22868:30952:0812/134840.419:INFO:turn_port.cc(431)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Trying to connect to TURN server via udp @ aa.online-metrix.net:3478 (192.225.158.x:3478)
+[22868:30952:0812/134840.420:INFO:turn_port.cc(1383)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate request sent, id=463536615334576f49785236
+[22868:30952:0812/134840.420:WARNING:turn_port.cc(891)] Port[1460a00:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN host lookup received error -1
+[22868:30952:0812/134840.420:INFO:basic_port_allocator.cc(1136)] Port[1460a00:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port encountered error while gathering candidates.
+[22868:30952:0812/134840.420:INFO:basic_port_allocator.cc(973)] Port[1b32000:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:891074543:1:udp:2113937151:07abe7c9-36b2-4c6c-98af-a5c66132b584.local:54990:host::0:TtB0:ZNBRJGId2HvYUMr0rYJF09eW:0:999:0]
+[22868:30952:0812/134840.420:INFO:basic_port_allocator.cc(1006)] Port[1b32000:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[22868:30952:0812/134840.420:INFO:basic_port_allocator.cc(973)] Port[1b31c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:3221043993:1:udp:2113929727:8c5ae9ff-e5f9-4b39-81d4-b349a4cc65aa.local:54991:host::0:TtB0:ZNBRJGId2HvYUMr0rYJF09eW:0:999:0]
+[22868:30952:0812/134840.420:INFO:basic_port_allocator.cc(1006)] Port[1b31c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+[22868:30952:0812/134840.420:INFO:basic_port_allocator.cc(1017)] Discarding candidate because it doesn't match filter.
+[30908:33228:0812/134840.440:ERROR:socket_manager.cc(141)] Failed to resolve address for aa.online-metrix.net., errorcode: -105
+[22868:30952:0812/134840.440:WARNING:stun_port.cc(442)] Port[1b31c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22868:30952:0812/134840.440:INFO:basic_port_allocator.cc(1118)] Port[1b31c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[22868:30952:0812/134840.571:INFO:turn_port.cc(1435)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Received TURN allocate error response, id=463536615334576f49785236, code=401, rtt=152
+[22868:30952:0812/134840.571:INFO:turn_port.cc(1383)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate request sent, id=77493956535531467436707a
+[22868:30952:0812/134840.571:ERROR:stun_port.cc(81)] Binding error response: class=4 number=1 reason=Unauthorized
+[22868:30952:0812/134840.571:INFO:basic_port_allocator.cc(1118)] Port[1b32000:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[22868:30952:0812/134840.593:WARNING:turn_port.cc(549)] Socket is bound to the address:192.168.1.x:59870, rather than an address associated with network:Net[any:0.0.0.x/0:Wildcard:id=0]. Still allowing it since it's the 'any' address, possibly caused by multiple_routes being disabled.
+[22868:30952:0812/134840.593:INFO:turn_port.cc(573)] TurnPort connected to aa.online-metrix.net:3478 using tcp.
+[22868:30952:0812/134840.593:INFO:turn_port.cc(1383)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate request sent, id=5378536a346d67504b4d7233
+[22868:30952:0812/134840.595:WARNING:turn_port.cc(549)] Socket is bound to the address:192.168.1.x:59871, rather than an address associated with network:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]. Still allowing it since it's the 'any' address, possibly caused by multiple_routes being disabled.
+[22868:30952:0812/134840.595:INFO:turn_port.cc(573)] TurnPort connected to aa.online-metrix.net:3478 using tcp.
+[22868:30952:0812/134840.595:INFO:turn_port.cc(1383)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN allocate request sent, id=6a77655369344b47577a3263
+[22868:30952:0812/134840.723:INFO:turn_port.cc(1389)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate requested successfully, id=77493956535531467436707a, code=0, rtt=152
+[22868:30952:0812/134840.723:INFO:basic_port_allocator.cc(973)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:906852497:1:udp:33562623:161.10.180.x:57628:relay:161.10.180.x:46456:TtB0:ZNBRJGId2HvYUMr0rYJF09eW:0:999:0]
+[22868:30952:0812/134840.723:INFO:basic_port_allocator.cc(1006)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[22868:30952:0812/134840.723:INFO:basic_port_allocator.cc(1118)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[22868:30952:0812/134840.723:INFO:turn_port.cc(1173)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Scheduled refresh in 3540000ms.
+[18224:19964:0812/134840.732:INFO:cpu_info.cc(53)] Available number of cores: 8
+[22868:30952:0812/134840.744:INFO:turn_port.cc(1435)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Received TURN allocate error response, id=5378536a346d67504b4d7233, code=401, rtt=152
+[22868:30952:0812/134840.744:INFO:turn_port.cc(1383)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate request sent, id=464f767a352b657877755336
+[22868:30952:0812/134840.760:INFO:turn_port.cc(1435)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Received TURN allocate error response, id=6a77655369344b47577a3263, code=401, rtt=164
+[22868:30952:0812/134840.760:INFO:turn_port.cc(1383)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN allocate request sent, id=4577676d4b41786931305670
+[22868:30952:0812/134840.896:INFO:turn_port.cc(1389)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate requested successfully, id=464f767a352b657877755336, code=0, rtt=152
+[22868:30952:0812/134840.897:INFO:basic_port_allocator.cc(973)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:3366431749:1:udp:16785663:161.10.180.x:21006:relay:161.10.180.x:35432:TtB0:ZNBRJGId2HvYUMr0rYJF09eW:0:999:0]
+[22868:30952:0812/134840.897:INFO:basic_port_allocator.cc(1006)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[22868:30952:0812/134840.897:INFO:basic_port_allocator.cc(1118)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[22868:30952:0812/134840.897:INFO:turn_port.cc(1173)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Scheduled refresh in 3540000ms.
+[22868:30952:0812/134840.914:INFO:turn_port.cc(1389)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN allocate requested successfully, id=4577676d4b41786931305670, code=0, rtt=155
+[22868:30952:0812/134840.914:INFO:basic_port_allocator.cc(973)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:3366431749:1:udp:16785663:161.10.180.x:52198:relay:161.10.180.x:35433:TtB0:ZNBRJGId2HvYUMr0rYJF09eW:0:999:0]
+[22868:30952:0812/134840.914:INFO:basic_port_allocator.cc(1006)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+[22868:30952:0812/134840.914:INFO:basic_port_allocator.cc(1118)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[22868:30952:0812/134840.914:INFO:basic_port_allocator.cc(1192)] All candidates gathered for 0:1:0
+[22868:30952:0812/134840.914:INFO:p2p_transport_channel.cc(970)] P2PTransportChannel: 0, component 1 gathering complete
+[22868:30952:0812/134840.914:INFO:turn_port.cc(1173)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Scheduled refresh in 3540000ms.
+[9836:21348:0812/134843.198:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[9836:21348:0812/134848.199:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[22868:30952:0812/134850.946:ERROR:stun_port.cc(81)] Binding error response: class=4 number=1 reason=Unauthorized
+[9836:21348:0812/134852.353:INFO:CONSOLE(1)] "/shop/flights/results/roundtrip/BOG/SMR/2024-08-15/2024-08-16/1/0/0?from=SB&di=1 QueryParams undefined", source: https://www.staticontent.com/landings-static/dist/dynamic/vendor.9f0be7acc9ae5233.js (1)
+[22868:25276:0812/134853.018:INFO:sdp_offer_answer.cc(2888)] Session: 7754491905657396168 Old state: have-local-offer New state: closed
+[22868:30952:0812/134853.019:INFO:peer_connection.cc(2530)] Tearing down data channel transport for mid=0
+[22868:30952:0812/134853.019:INFO:turn_port.cc(1573)] Port[1460400:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN refresh request sent, id=77455036382f69614a524770
+[22868:30952:0812/134853.020:INFO:turn_port.cc(1573)] Port[145fe00:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN refresh request sent, id=515071317945315850316472
+[22868:30952:0812/134853.020:INFO:turn_port.cc(1573)] Port[1461000:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN refresh request sent, id=446335506e576342532f4653
+[17844:33808:0812/134853.206:INFO:cpu_info.cc(53)] Available number of cores: 8
+[31676:36552:0812/134853.945:INFO:cpu_info.cc(53)] Available number of cores: 8
+[9836:21348:0812/134854.031:INFO:CONSOLE(464)] "%cWarning: Please close the DevTools panel before solving the captcha! font-size: 15px; border: 3px solid red ; border-radius: 7px ; padding: 10px ; margin: 20px ;", source: https://geo.captcha-delivery.com/captcha/?initialCid=AHrlqAAAAAMAnBWhZTcjXakAoQq0gA%3D%3D&hash=3AAEF2D1471C74CB6D2B00AC17D6B6&cid=hYQiPNHVArf3XTLSyIWkJv8MMS9CXlG_7UczApRuzsglH~HYKKUtevOl9DVb~bKHt6bFXg4e2b94JBOnmaRu2ZBjgBukWS7UXokNkiwaXHBqaJA5COTzVBkJE3hHt4W0&t=fe&referer=https%3A%2F%2Fwww.despegar.com.co%2Fshop%2Fflights%2Fresults%2Froundtrip%2FBOG%2FSMR%2F2024-08-15%2F2024-08-16%2F1%2F0%2F0%3Ffrom%3DSB%26di%3D1%26reSearch%3Dtrue&s=42918&e=cb718cd864f65d5105ab7ecdfa658c7780f9a8dcba59914ff0c2e963db9374b4&dm=cd (464)
+[9836:21348:0812/134854.089:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[9836:21348:0812/134854.089:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[9836:21348:0812/134855.508:INFO:CONSOLE(1)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: blob:https://geo.captcha-delivery.com/a3764b49-da53-414e-92ea-4ac678a39673 (1)
+[9836:21348:0812/135954.172:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[9836:21348:0812/135959.175:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[9836:21348:0812/140019.209:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[9836:21348:0812/140237.195:ERROR:device_event_log_impl.cc(196)] [14:02:37.179] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[34060:24984:0812/142155.136:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 127.0.6533.100 (not a warning)
+[9836:21348:0812/142155.708:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[34060:24984:0812/142156.115:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[34060:24984:0812/142156.252:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[24288:14840:0812/142157.637:INFO:cpu_info.cc(53)] Available number of cores: 8
+[24024:33172:0812/142158.887:INFO:cpu_info.cc(53)] Available number of cores: 8
+[21744:17800:0812/142204.511:INFO:cpu_info.cc(53)] Available number of cores: 8
+[34060:24984:0812/142205.198:INFO:CONSOLE(2)] "Error", source: https://js.datadome.co/tags.js (2)
+[34060:24984:0812/142205.948:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[33716:34388:0812/142207.396:INFO:cpu_info.cc(53)] Available number of cores: 8
+[19636:30944:0812/142207.896:INFO:cpu_info.cc(53)] Available number of cores: 8
+[33716:10124:0812/142208.543:INFO:peer_connection_dependency_factory.cc(711)] Running WebRTC with a combined Network and Worker thread.
+[33716:10124:0812/142208.543:INFO:webrtc_voice_engine.cc(355)] WebRtcVoiceEngine::WebRtcVoiceEngine
+[33716:8424:0812/142208.543:INFO:webrtc_voice_engine.cc(377)] WebRtcVoiceEngine::Init
+[33716:8424:0812/142208.545:INFO:webrtc_voice_engine.cc(479)] WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 200, audio_jitter_buffer_fast_accelerate: 0, audio_jitter_buffer_min_delay_ms: 0, }
+[33716:8424:0812/142208.545:INFO:peer_connection_factory.cc(343)] Using default network controller factory
+[33716:8424:0812/142208.545:INFO:bitrate_prober.cc(48)] Bandwidth probing enabled, set to inactive
+[33716:8424:0812/142208.545:INFO:transport_sequence_number_feedback_generator.cc(69)] Maximum interval between transport feedback RTCP messages: 250 ms
+[33716:8424:0812/142208.545:INFO:aimd_rate_control.cc(87)] Using aimd rate control with back off factor 0.85
+[33716:8424:0812/142208.545:INFO:remote_bitrate_estimator_single_stream.cc(53)] RemoteBitrateEstimatorSingleStream: Instantiating.
+[13716:4968:0812/142208.835:INFO:cpu_info.cc(53)] Available number of cores: 8
+[18440:26240:0812/142209.164:INFO:cpu_info.cc(53)] Available number of cores: 8
+[29292:34420:0812/142209.246:INFO:cpu_info.cc(53)] Available number of cores: 8
+[33716:10124:0812/142210.331:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33716:8424:0812/142210.332:INFO:openssl_key_pair.cc(40)] Making key pair
+[33716:8424:0812/142210.332:INFO:openssl_key_pair.cc(93)] Returning key pair
+[33716:8424:0812/142210.332:INFO:boringssl_certificate.cc(189)] Making certificate for WebRTC
+[33716:8424:0812/142210.332:INFO:boringssl_certificate.cc(245)] Returning certificate
+[34060:24984:0812/142210.336:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[34060:24984:0812/142210.336:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[34060:24984:0812/142210.355:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[34060:24984:0812/142210.355:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[33716:8424:0812/142210.381:INFO:p2p_transport_channel.cc(517)] Set backup connection ping interval to 25000 milliseconds.
+[33716:8424:0812/142210.381:INFO:p2p_transport_channel.cc(526)] Set ICE receiving timeout to 2500 milliseconds
+[33716:8424:0812/142210.381:INFO:p2p_transport_channel.cc(533)] Set ping most likely connection to 0
+[33716:8424:0812/142210.381:INFO:p2p_transport_channel.cc(540)] Set stable_writable_connection_ping_interval to 2500
+[33716:8424:0812/142210.381:INFO:p2p_transport_channel.cc(553)] Set presume writable when fully relayed to 0
+[33716:8424:0812/142210.381:INFO:p2p_transport_channel.cc(571)] Set regather_on_failed_networks_interval to 300000
+[33716:8424:0812/142210.381:INFO:p2p_transport_channel.cc(578)] Set receiving_switching_delay to 1000
+[33716:8424:0812/142210.381:INFO:jsep_transport_controller.cc(1086)] Creating DtlsSrtpTransport.
+[33716:8424:0812/142210.381:INFO:dtls_srtp_transport.cc(71)] Setting RTP Transport on 0 transport 00003028013EA900
+[33716:8424:0812/142210.386:INFO:p2p_transport_channel.cc(451)] Set ICE ufrag: lnwJ pwd: uJLUVUmdj8nPlmqIKXsbfPPm on transport 0
+[33716:10124:0812/142210.386:INFO:peer_connection.cc(2079)] Creating data channel, mid=0
+[33716:10124:0812/142210.386:INFO:sdp_offer_answer.cc(2888)] Session: 785219181849177199 Old state: stable New state: have-local-offer
+[33716:8424:0812/142210.387:INFO:basic_port_allocator.cc(379)] Start getting ports with turn_port_prune_policy 0
+[34060:24984:0812/142210.950:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[33716:8424:0812/142211.754:INFO:basic_port_allocator.cc(823)] Allocate ports on any any 
+[33716:8424:0812/142211.754:INFO:basic_port_allocator.cc(913)] Network manager has started
+[33716:8424:0812/142211.754:INFO:basic_port_allocator.cc(1424)] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Udp
+[33716:8424:0812/142211.755:INFO:port.cc(138)] Port[1979800::1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[33716:8424:0812/142211.755:INFO:basic_port_allocator.cc(1506)] AllocationSequence: UDPPort will be handling the STUN candidate generation.
+[33716:8424:0812/142211.755:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[33716:8424:0812/142211.755:INFO:basic_port_allocator.cc(956)] Port[1979800:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[33716:8424:0812/142211.755:INFO:basic_port_allocator.cc(1424)] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Udp
+[33716:8424:0812/142211.755:INFO:port.cc(138)] Port[1979400::1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[33716:8424:0812/142211.755:INFO:basic_port_allocator.cc(1506)] AllocationSequence: UDPPort will be handling the STUN candidate generation.
+[33716:8424:0812/142211.755:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[33716:8424:0812/142211.755:INFO:basic_port_allocator.cc(956)] Port[1979400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[34060:24984:0812/142211.798:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
+[34060:24984:0812/142211.799:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
+[34060:24984:0812/142211.799:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
+[34060:24984:0812/142211.799:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://us.creativecdn.com/ig-membership?ntk=lOlFofUc-CF-dwOnnGyyc5zVGe5Ho7osuXH33tBjHkA2zZM0E1YIBaQOfgFv09V5LOfDq9E72ef6Qq_FzwHbEyQpL5khnTtQI6EyvyA9Oa1NkGEun1nh-tqNQoeNSFySR5M3-m0PRXvbk05b5XB9nWbTgkco52DnRuVXEOILbpquhjNq4xOMJb4kqDbb0I7W (0)
+[33716:8424:0812/142211.807:INFO:basic_port_allocator.cc(1424)] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Relay
+[33716:8424:0812/142211.914:INFO:port.cc(138)] Port[153e600::1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(956)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[33716:8424:0812/142211.918:INFO:turn_port.cc(866)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting TURN host lookup for aa.online-metrix.net:3478
+[33716:8424:0812/142211.918:INFO:port.cc(138)] Port[153f800::1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(956)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[33716:8424:0812/142211.918:INFO:turn_port.cc(866)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting TURN host lookup for aa.online-metrix.net:3478
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(1424)] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Relay
+[33716:8424:0812/142211.918:INFO:port.cc(138)] Port[1540400::1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(956)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[33716:8424:0812/142211.918:INFO:turn_port.cc(866)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting TURN host lookup for aa.online-metrix.net:3478
+[33716:8424:0812/142211.918:INFO:port.cc(138)] Port[153fe00::1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[33716:8424:0812/142211.918:INFO:basic_port_allocator.cc(956)] Port[153fe00:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[33716:8424:0812/142211.918:INFO:turn_port.cc(866)] Port[153fe00:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting TURN host lookup for aa.online-metrix.net:3478
+[33716:8424:0812/142211.979:INFO:basic_port_allocator.cc(1424)] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Tcp
+[33716:8424:0812/142211.979:INFO:port.cc(138)] Port[14ce680::1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[33716:8424:0812/142211.979:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[33716:8424:0812/142211.979:INFO:basic_port_allocator.cc(956)] Port[14ce680:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[33716:8424:0812/142211.979:INFO:tcp_port.cc(177)] Port[14ce680:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Not listening due to firewall restrictions.
+[33716:8424:0812/142211.979:INFO:basic_port_allocator.cc(1424)] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Tcp
+[33716:8424:0812/142211.979:INFO:port.cc(138)] Port[14c4e00::1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[33716:8424:0812/142211.979:INFO:basic_port_allocator.cc(936)] Adding allocated port for 0
+[33716:8424:0812/142211.979:INFO:basic_port_allocator.cc(956)] Port[14c4e00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[33716:8424:0812/142211.979:INFO:tcp_port.cc(177)] Port[14c4e00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Not listening due to firewall restrictions.
+[29944:25728:0812/142212.789:ERROR:socket_manager.cc(141)] Failed to resolve address for aa.online-metrix.net., errorcode: -105
+[29944:25728:0812/142212.794:ERROR:socket_manager.cc(141)] Failed to resolve address for aa.online-metrix.net., errorcode: -105
+[33716:8424:0812/142213.149:INFO:stun_port.cc(431)] Port[1979800:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting STUN host lookup for aa.online-metrix.net:3478
+[33716:8424:0812/142213.149:INFO:stun_port.cc(431)] Port[1979400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting STUN host lookup for aa.online-metrix.net:3478
+[33716:8424:0812/142213.152:INFO:basic_port_allocator.cc(973)] Port[14ce680:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:3165151602:1:tcp:1509957375:03564c35-03f7-486a-8795-6e0d73aab9e8.local:9:host::0:lnwJ:uJLUVUmdj8nPlmqIKXsbfPPm:0:999:0]
+[33716:8424:0812/142213.152:INFO:basic_port_allocator.cc(1006)] Port[14ce680:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[33716:8424:0812/142213.152:INFO:basic_port_allocator.cc(1017)] Discarding candidate because it doesn't match filter.
+[33716:8424:0812/142213.152:INFO:basic_port_allocator.cc(1118)] Port[14ce680:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[33716:8424:0812/142213.152:INFO:turn_port.cc(431)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Trying to connect to TURN server via tcp @ aa.online-metrix.net:3478 (192.225.158.x:3478)
+[33716:8424:0812/142213.157:INFO:basic_port_allocator.cc(973)] Port[14c4e00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:2468055477:1:tcp:1509949951:ff83c68e-0247-4b70-ad40-236d36ef47da.local:9:host::0:lnwJ:uJLUVUmdj8nPlmqIKXsbfPPm:0:999:0]
+[33716:8424:0812/142213.158:INFO:basic_port_allocator.cc(1006)] Port[14c4e00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+[33716:8424:0812/142213.158:INFO:basic_port_allocator.cc(1017)] Discarding candidate because it doesn't match filter.
+[33716:8424:0812/142213.158:INFO:basic_port_allocator.cc(1118)] Port[14c4e00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[33716:8424:0812/142213.158:INFO:turn_port.cc(431)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Trying to connect to TURN server via udp @ aa.online-metrix.net:3478 (192.225.158.x:3478)
+[33716:8424:0812/142213.159:INFO:turn_port.cc(1383)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate request sent, id=664c7732784c654664643863
+[33716:8424:0812/142213.159:WARNING:turn_port.cc(891)] Port[153fe00:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN host lookup received error -1
+[33716:8424:0812/142213.159:INFO:basic_port_allocator.cc(973)] Port[1979800:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:1771139382:1:udp:2113937151:7efbd26c-8390-4564-bb7a-3f870ca52dcc.local:50356:host::0:lnwJ:uJLUVUmdj8nPlmqIKXsbfPPm:0:999:0]
+[33716:8424:0812/142213.159:INFO:basic_port_allocator.cc(1006)] Port[1979800:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[33716:8424:0812/142213.159:INFO:basic_port_allocator.cc(973)] Port[1979400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:3990121261:1:udp:2113929727:ff83c68e-0247-4b70-ad40-236d36ef47da.local:50357:host::0:lnwJ:uJLUVUmdj8nPlmqIKXsbfPPm:0:999:0]
+[33716:8424:0812/142213.159:INFO:basic_port_allocator.cc(1006)] Port[1979400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+[33716:8424:0812/142213.160:INFO:basic_port_allocator.cc(1017)] Discarding candidate because it doesn't match filter.
+[33716:8424:0812/142213.160:INFO:basic_port_allocator.cc(1136)] Port[153fe00:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port encountered error while gathering candidates.
+[29944:25728:0812/142213.190:ERROR:socket_manager.cc(141)] Failed to resolve address for aa.online-metrix.net., errorcode: -105
+[33716:8424:0812/142213.195:WARNING:stun_port.cc(442)] Port[1979400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[33716:8424:0812/142213.195:INFO:basic_port_allocator.cc(1118)] Port[1979400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[33716:8424:0812/142213.325:INFO:turn_port.cc(1435)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Received TURN allocate error response, id=664c7732784c654664643863, code=401, rtt=166
+[33716:8424:0812/142213.325:INFO:turn_port.cc(1383)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate request sent, id=4d756d45642f2b555733424b
+[33716:8424:0812/142213.325:ERROR:stun_port.cc(81)] Binding error response: class=4 number=1 reason=Unauthorized
+[33716:8424:0812/142213.325:INFO:basic_port_allocator.cc(1118)] Port[1979800:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[33716:8424:0812/142213.344:WARNING:turn_port.cc(549)] Socket is bound to the address:192.168.1.x:60564, rather than an address associated with network:Net[any:0.0.0.x/0:Wildcard:id=0]. Still allowing it since it's the 'any' address, possibly caused by multiple_routes being disabled.
+[33716:8424:0812/142213.344:INFO:turn_port.cc(573)] TurnPort connected to aa.online-metrix.net:3478 using tcp.
+[33716:8424:0812/142213.344:INFO:turn_port.cc(1383)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate request sent, id=484e7862534b79572f6d6f66
+[33716:8424:0812/142213.349:WARNING:turn_port.cc(549)] Socket is bound to the address:192.168.1.x:60565, rather than an address associated with network:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]. Still allowing it since it's the 'any' address, possibly caused by multiple_routes being disabled.
+[33716:8424:0812/142213.349:INFO:turn_port.cc(573)] TurnPort connected to aa.online-metrix.net:3478 using tcp.
+[33716:8424:0812/142213.349:INFO:turn_port.cc(1383)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN allocate request sent, id=707467335764512f61325750
+[33716:8424:0812/142213.480:INFO:turn_port.cc(1389)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate requested successfully, id=4d756d45642f2b555733424b, code=0, rtt=155
+[33716:8424:0812/142213.480:INFO:basic_port_allocator.cc(973)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:3468428212:1:udp:33562623:161.10.180.x:52850:relay:161.10.180.x:42754:lnwJ:uJLUVUmdj8nPlmqIKXsbfPPm:0:999:0]
+[33716:8424:0812/142213.480:INFO:basic_port_allocator.cc(1006)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[33716:8424:0812/142213.480:INFO:basic_port_allocator.cc(1118)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[33716:8424:0812/142213.480:INFO:turn_port.cc(1173)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Scheduled refresh in 3540000ms.
+[33716:8424:0812/142213.506:INFO:turn_port.cc(1435)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Received TURN allocate error response, id=707467335764512f61325750, code=401, rtt=158
+[33716:8424:0812/142213.506:INFO:turn_port.cc(1383)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN allocate request sent, id=4b4c614b507532676c6a6f43
+[33716:8424:0812/142213.508:INFO:turn_port.cc(1435)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Received TURN allocate error response, id=484e7862534b79572f6d6f66, code=401, rtt=162
+[33716:8424:0812/142213.508:INFO:turn_port.cc(1383)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate request sent, id=6d34466d4174653030734b68
+[33716:8424:0812/142213.660:INFO:turn_port.cc(1389)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN allocate requested successfully, id=6d34466d4174653030734b68, code=0, rtt=152
+[33716:8424:0812/142213.660:INFO:basic_port_allocator.cc(973)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:2960384300:1:udp:16785663:161.10.180.x:30567:relay:161.10.180.x:36642:lnwJ:uJLUVUmdj8nPlmqIKXsbfPPm:0:999:0]
+[33716:8424:0812/142213.660:INFO:basic_port_allocator.cc(1006)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[33716:8424:0812/142213.660:INFO:basic_port_allocator.cc(1118)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[33716:8424:0812/142213.660:INFO:turn_port.cc(1173)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Scheduled refresh in 3540000ms.
+[33716:8424:0812/142213.678:INFO:turn_port.cc(1389)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN allocate requested successfully, id=4b4c614b507532676c6a6f43, code=0, rtt=171
+[33716:8424:0812/142213.679:INFO:basic_port_allocator.cc(973)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:2960384300:1:udp:16785663:161.10.180.x:32745:relay:161.10.180.x:36643:lnwJ:uJLUVUmdj8nPlmqIKXsbfPPm:0:999:0]
+[33716:8424:0812/142213.679:INFO:basic_port_allocator.cc(1006)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+[33716:8424:0812/142213.679:INFO:basic_port_allocator.cc(1118)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[33716:8424:0812/142213.679:INFO:basic_port_allocator.cc(1192)] All candidates gathered for 0:1:0
+[33716:8424:0812/142213.679:INFO:p2p_transport_channel.cc(970)] P2PTransportChannel: 0, component 1 gathering complete
+[33716:8424:0812/142213.679:INFO:turn_port.cc(1173)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Scheduled refresh in 3540000ms.
+[34060:24984:0812/142215.950:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[17784:21168:0812/142216.296:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 127.0.6533.100 (not a warning)
+[32440:8540:0812/142217.174:INFO:cpu_info.cc(53)] Available number of cores: 8
+[5784:18288:0812/142218.458:INFO:cpu_info.cc(53)] Available number of cores: 8
+[33716:8424:0812/142223.504:ERROR:stun_port.cc(81)] Binding error response: class=4 number=1 reason=Unauthorized
+[34060:24984:0812/142226.852:INFO:CONSOLE(1)] "/shop/flights/results/roundtrip/BOG/SMR/2024-08-15/2024-08-16/1/0/0?from=SB&di=1 QueryParams undefined", source: https://www.staticontent.com/landings-static/dist/dynamic/vendor.9f0be7acc9ae5233.js (1)
+[33716:10124:0812/142227.231:INFO:sdp_offer_answer.cc(2888)] Session: 785219181849177199 Old state: have-local-offer New state: closed
+[33716:8424:0812/142227.231:INFO:peer_connection.cc(2530)] Tearing down data channel transport for mid=0
+[33716:8424:0812/142227.232:INFO:turn_port.cc(1573)] Port[153e600:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN refresh request sent, id=726a413869364b5048596e43
+[33716:8424:0812/142227.232:INFO:turn_port.cc(1573)] Port[153f800:0:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN refresh request sent, id=483650567a656967302f6869
+[33716:8424:0812/142227.234:INFO:turn_port.cc(1573)] Port[1540400:0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN refresh request sent, id=4750517358766d766d366d34
+[21788:26496:0812/142227.433:INFO:cpu_info.cc(53)] Available number of cores: 8
+[34060:24984:0812/142227.787:INFO:CONSOLE(464)] "%cWarning: Please close the DevTools panel before solving the captcha! font-size: 15px; border: 3px solid red ; border-radius: 7px ; padding: 10px ; margin: 20px ;", source: https://geo.captcha-delivery.com/captcha/?initialCid=AHrlqAAAAAMAnBWhZTcjXakAoQq0gA%3D%3D&hash=3AAEF2D1471C74CB6D2B00AC17D6B6&cid=PNT4s4hKDWNCHnBeVF3oKB66X8hE2nTKDinOr_1_CP4McQ~VqgoHDrV1hDiskjh7EN9DnEQUykNglro2lPHshSi9xSii4q~NUR~003OlcK8ilxCwD9qokI6sY_9SfLeY&t=fe&referer=https%3A%2F%2Fwww.despegar.com.co%2Fshop%2Fflights%2Fresults%2Froundtrip%2FBOG%2FSMR%2F2024-08-15%2F2024-08-16%2F1%2F0%2F0%3Ffrom%3DSB%26di%3D1%26reSearch%3Dtrue&s=42918&e=7300babcb32acc71c5ff7ad9dbc6d6118ef4b9ff4bce586bdd12763724266e75&dm=cd (464)
+[34060:24984:0812/142227.877:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[34060:24984:0812/142227.877:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[34060:24984:0812/142230.253:INFO:CONSOLE(1)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: blob:https://geo.captcha-delivery.com/0a33d1c5-6770-4fce-8409-cc0fbd8affe0 (1)
+[34060:24984:0812/142240.086:INFO:CONSOLE(464)] "Error", source: https://geo.captcha-delivery.com/captcha/?initialCid=AHrlqAAAAAMAnBWhZTcjXakAoQq0gA%3D%3D&hash=3AAEF2D1471C74CB6D2B00AC17D6B6&cid=PNT4s4hKDWNCHnBeVF3oKB66X8hE2nTKDinOr_1_CP4McQ~VqgoHDrV1hDiskjh7EN9DnEQUykNglro2lPHshSi9xSii4q~NUR~003OlcK8ilxCwD9qokI6sY_9SfLeY&t=fe&referer=https%3A%2F%2Fwww.despegar.com.co%2Fshop%2Fflights%2Fresults%2Froundtrip%2FBOG%2FSMR%2F2024-08-15%2F2024-08-16%2F1%2F0%2F0%3Ffrom%3DSB%26di%3D1%26reSearch%3Dtrue&s=42918&e=7300babcb32acc71c5ff7ad9dbc6d6118ef4b9ff4bce586bdd12763724266e75&dm=cd (464)
+[34060:24984:0812/142506.220:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/142511.234:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/142521.253:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/142526.255:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/142531.265:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/142536.268:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/142551.303:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/142611.319:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[29944:25728:0812/142704.338:WARNING:spdy_session.cc(2716)] Received RST for invalid stream1
+[29944:25728:0812/142704.338:WARNING:spdy_session.cc(2716)] Received RST for invalid stream1
+[29944:25728:0812/153420.565:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[34060:24984:0812/153921.270:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/153941.308:WARNING:page_discarding_helper.cc(142)] Discarding multiple pages with target (kb): 0
+[34060:24984:0812/154202.220:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

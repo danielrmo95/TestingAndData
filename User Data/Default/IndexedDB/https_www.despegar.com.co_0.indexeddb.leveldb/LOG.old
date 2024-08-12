@@ -1,7 +1,14 @@
-2024/08/12-11:07:37.629 5928 Reusing MANIFEST C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/12-11:07:37.630 5928 Recovering log #4
-2024/08/12-11:07:37.634 5928 Reusing old log C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/000004.log 
-2024/08/12-11:07:37.799 5928 Level-0 table #8: started
-2024/08/12-11:07:37.804 5928 Level-0 table #8: 1404 bytes OK
-2024/08/12-11:07:37.806 5928 Delete type=0 #4
-2024/08/12-11:07:37.807 5928 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/12-13:48:37.849 60c0 Reusing MANIFEST C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/12-13:48:37.850 60c0 Recovering log #66
+2024/08/12-13:48:37.851 60c0 Reusing old log C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/000066.log 
+2024/08/12-13:48:37.851 60c0 Delete type=2 #64
+2024/08/12-13:48:38.019 5cb8 Level-0 table #71: started
+2024/08/12-13:48:38.023 5cb8 Level-0 table #71: 1364 bytes OK
+2024/08/12-13:48:38.024 5cb8 Delete type=0 #66
+2024/08/12-13:48:38.024 5a50 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1841 : 1
+2024/08/12-13:48:38.025 5a50 Compacting 1@0 + 1@1 files
+2024/08/12-13:48:38.026 5a50 Generated table #72@0: 46 keys, 1189 bytes
+2024/08/12-13:48:38.027 5a50 Compacted 1@0 + 1@1 files => 1189 bytes
+2024/08/12-13:48:38.027 5a50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/12-13:48:38.027 5a50 Delete type=2 #71
+2024/08/12-13:48:38.028 5a50 Manual compaction at level-0 from '\x00\x15\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1841 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)

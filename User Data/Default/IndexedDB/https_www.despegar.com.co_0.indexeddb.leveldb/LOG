@@ -1,13 +1,14 @@
-2024/08/12-11:51:25.814 53b8 Reusing MANIFEST C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/12-11:51:25.815 53b8 Recovering log #7
-2024/08/12-11:51:25.815 53b8 Reusing old log C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/000007.log 
-2024/08/12-11:51:25.978 6ee0 Level-0 table #11: started
-2024/08/12-11:51:26.026 6ee0 Level-0 table #11: 1341 bytes OK
-2024/08/12-11:51:26.027 6ee0 Delete type=0 #7
-2024/08/12-11:51:26.027 6ee0 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 221 : 1
-2024/08/12-11:51:26.028 6ee0 Compacting 1@0 + 1@1 files
-2024/08/12-11:51:26.030 6ee0 Generated table #12@0: 28 keys, 673 bytes
-2024/08/12-11:51:26.030 6ee0 Compacted 1@0 + 1@1 files => 673 bytes
-2024/08/12-11:51:26.031 6ee0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/08/12-11:51:26.031 6ee0 Delete type=2 #11
-2024/08/12-11:51:26.031 6ee0 Manual compaction at level-0 from '\x00\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 221 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/12-14:22:07.414 8a68 Reusing MANIFEST C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/12-14:22:07.415 8a68 Recovering log #70
+2024/08/12-14:22:07.416 8a68 Reusing old log C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/000070.log 
+2024/08/12-14:22:07.416 8a68 Delete type=2 #68
+2024/08/12-14:22:08.001 8a68 Level-0 table #75: started
+2024/08/12-14:22:08.003 8a68 Level-0 table #75: 1388 bytes OK
+2024/08/12-14:22:08.004 8a68 Delete type=0 #70
+2024/08/12-14:22:08.004 8a68 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1931 : 1
+2024/08/12-14:22:08.005 8a68 Compacting 1@0 + 1@1 files
+2024/08/12-14:22:08.006 8a68 Generated table #76@0: 47 keys, 1212 bytes
+2024/08/12-14:22:08.006 8a68 Compacted 1@0 + 1@1 files => 1212 bytes
+2024/08/12-14:22:08.007 8a68 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/12-14:22:08.007 8a68 Delete type=2 #75
+2024/08/12-14:22:08.008 8a68 Manual compaction at level-0 from '\x00\x16\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1931 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
