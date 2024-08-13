@@ -38,6 +38,7 @@ public class HomePageTest {
         WebElement firstItem = driver.findElement(By.cssSelector("li.item.-active"));
         firstItem.click();
         homePage.selectDates();
+
         homePage.clickSearchButton();
 
     }
