@@ -5,7 +5,7 @@ try:
         pyodbc_conn_str = (
         "DRIVER={ODBC Driver 17 for SQL Server};"
         "SERVER=LAPTOP-S5RTQ3ET\\SQLEXPRESS;"
-        "DATABASE=SQL tutorial;"
+        "DATABASE=EduFeedback;"
         "Trusted_Connection=yes;"
     )
         pyodbc_conn = pyodbc.connect(pyodbc_conn_str)

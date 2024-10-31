@@ -1,18 +1,18 @@
 -------------------------------------------------------------------------------
 Test set: com.example.HomePageTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 42.36 s <<< FAILURE! -- in com.example.HomePageTest
-com.example.HomePageTest.testFlightSearch -- Time elapsed: 42.34 s <<< ERROR!
-org.openqa.selenium.NoSuchWindowException: 
-no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=127.0.6533.100)
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.570 s <<< FAILURE! -- in com.example.HomePageTest
+com.example.HomePageTest.testFlightSearch -- Time elapsed: 4.543 s <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//label[contains(text(), 'Origen')]/following-sibling::div//input[@class='input-tag']"}
+  (Session info: chrome=128.0.6613.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.10.0', revision: 'c14d967899'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [640b20cf1c59856a2c5cc03608222c1c, findElement {using=xpath, value=//button[./em[text()='Buscar']]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\Daniel Romero\Desk...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56683}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56683/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 640b20cf1c59856a2c5cc03608222c1c
+Command: [4579f9e15ee3742fa7bc3825c0db1414, findElement {using=xpath, value=//label[contains(text(), 'Origen')]/following-sibling::div//input[@class='input-tag']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.86, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\Daniel Romero\Desk...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58931}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58931/devtoo..., se:cdpVersion: 128.0.6613.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4579f9e15ee3742fa7bc3825c0db1414
 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
@@ -27,8 +27,8 @@ Session ID: 640b20cf1c59856a2c5cc03608222c1c
 	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
-	at com.example.HomePage.clickSearchButton(HomePage.java:53)
-	at com.example.HomePageTest.testFlightSearch(HomePageTest.java:42)
+	at com.example.HomePage.setOrigin(HomePage.java:26)
+	at com.example.HomePageTest.testFlightSearch(HomePageTest.java:46)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)

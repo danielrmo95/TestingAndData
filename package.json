@@ -12,5 +12,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^13.9.0"
+  },
+  "dependencies": {
+    "fastapi-mysql-restapi": "file:"
   }
 }

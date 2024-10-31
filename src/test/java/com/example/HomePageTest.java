@@ -1,7 +1,11 @@
 package com.example;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import org.junit.jupiter.api.AfterEach;
+//import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
@@ -9,6 +13,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import java.util.List;
+
+
 
 public class HomePageTest {
 
@@ -31,20 +41,20 @@ public class HomePageTest {
 
     @Test
     public void testFlightSearch() throws InterruptedException {
-        driver.get("https://www.despegar.com.co/");
+        driver.get("https://www.despegar.com.co");
 
-        homePage.setOrigin("Bogotá, Bogotá D.C., Colombia");
-        homePage.setDestination("San");
-        WebElement firstItem = driver.findElement(By.cssSelector("li.item.-active"));
-        firstItem.click();
-        homePage.selectDates();
-
-        homePage.clickSearchButton();
+         homePage.setOrigin("Bogotá, Bogotá D.C., Colombia");
+         homePage.setDestination("San");
+         WebElement firstItem = driver.findElement(By.cssSelector("li.item.-active"));
+         firstItem.click();
+         homePage.selectDates();
+         homePage.clickSearchButton();
 
     }
-
+    
+    
     @AfterEach
-    public void tearDown() {
+       public void tearDown() {
         if (driver != null) {
             driver.quit();
         }

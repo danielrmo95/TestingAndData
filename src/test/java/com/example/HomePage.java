@@ -3,10 +3,14 @@ package com.example;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
 
 public class HomePage {
 
     private WebDriver driver;
+    private WebDriverWait wait;
 
     // Elementos
     private By originField = By.xpath("//label[contains(text(), 'Origen')]/following-sibling::div//input[@class='input-tag']");
@@ -19,39 +23,32 @@ public class HomePage {
     // Constructor
     public HomePage(WebDriver driver) {
         this.driver = driver;
+        this.wait = new WebDriverWait(driver, Duration.ofSeconds(20)); // 10 segundos de espera
     }
 
     // Métodos de la página
-    public void setOrigin(String origin) throws InterruptedException {
-        WebElement element = driver.findElement(originField);
+    public void setOrigin(String origin) {
+        WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(originField));
         element.sendKeys(origin);
-        Thread.sleep(2000); 
     }
 
-    public void setDestination(String destination) throws InterruptedException {
-        WebElement element = driver.findElement(destinationField);
+    public void setDestination(String destination) {
+        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(destinationField));
         element.click();
-        Thread.sleep(10000);
-        element.sendKeys(destination);
-        Thread.sleep(10000); 
-
+        wait.until(ExpectedConditions.visibilityOfElementLocated(destinationField)).sendKeys(destination);
     }
 
-    public void selectDates() throws InterruptedException {
-        WebElement dateFieldElement = driver.findElement(dateField);
+    public void selectDates() {
+        WebElement dateFieldElement = wait.until(ExpectedConditions.elementToBeClickable(dateField));
         dateFieldElement.click();
-        Thread.sleep(2000); 
-        WebElement dateInElement = driver.findElement(datein);
+        WebElement dateInElement = wait.until(ExpectedConditions.elementToBeClickable(datein));
         dateInElement.click();
-        Thread.sleep(2000);
-        WebElement dateFiElement = driver.findElement(datefi);
+        WebElement dateFiElement = wait.until(ExpectedConditions.elementToBeClickable(datefi));
         dateFiElement.click();
-        Thread.sleep(5000);
     }
 
-    public void clickSearchButton() throws InterruptedException {
-        WebElement button = driver.findElement(searchButton);
+    public void clickSearchButton() {
+        WebElement button = wait.until(ExpectedConditions.elementToBeClickable(searchButton));
         button.click();
-        Thread.sleep(10000);
     }
 }
