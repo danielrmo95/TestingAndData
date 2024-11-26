@@ -1,0 +1,4 @@
+SELECT en.nombre AS entidad_nombre, cu.nombre_curso, cu.instructor, co.calificacion, co.comentario, co.fecha_comentario
+FROM  dbo.Comentarios co 
+INNER JOIN dbo.Cursos cu ON cu.curso_id = co.curso_id 
+INNER JOIN dbo.EntidadesEducativas en ON en.entidad_id = co.entidad_id

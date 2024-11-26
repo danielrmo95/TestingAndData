@@ -6,10 +6,10 @@ meta = MetaData()
 comentarios = Table(
     "Comentarios", meta,
     Column("comentario_id", Integer, primary_key=True, autoincrement=True),
-    Column("curso_id", Integer, ForeignKey("Cursos.curso_id"), nullable=False),  # Relación con Cursos
-    Column("entidad_id", Integer, ForeignKey("EntidadesEducativas.entidad_id"), nullable=False),  # Relación con EntidadesEducativas
-    Column("comentario", String(500), nullable=False),  # Texto del comentario
-    Column("fecha_comentario", DateTime, nullable=False),  # Fecha del comentario
+    Column("curso_id", Integer, ForeignKey("Cursos.curso_id"), nullable=False),  
+    Column("entidad_id", Integer, ForeignKey("EntidadesEducativas.entidad_id"), nullable=False),  
+    Column("comentario", String(500), nullable=False),  
+    Column("fecha_comentario", DateTime, nullable=False),  
 )
 
 class ComentarioModel:

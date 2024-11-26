@@ -1,6 +1,6 @@
 # test_operaciones.py
 import pytest
-from operaciones import sumar
+from scripts_py.operaciones import sumar
 import time
 
 def test_sumar():
