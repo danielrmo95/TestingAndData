@@ -35,8 +35,8 @@ describe('User Registration', () => {
     cy.get('button[type="submit"]').should('be.disabled');
 
   });
-
-/*   it('should validate password contains number', () => {
+  
+  it('should validate password contains number', () => {
     cy.get('#full-name').type('Daniel Fernando Romero Ochoa');
     cy.get('#email').type('danielrmo95@gmail.com');
 
@@ -45,10 +45,10 @@ describe('User Registration', () => {
 
     cy.get('button[type="submit"]').should('be.disabled');
 
-  }); */
+  });
 
 
-  it('should validate password contains Special characters', () => {
+/*   it('should validate password contains Special characters', () => {
     cy.get('#full-name').type('Daniel Fernando Romero Ochoa');
     cy.get('#email').type('danielrmo95@gmail.com');
 
@@ -57,7 +57,7 @@ describe('User Registration', () => {
 
     cy.get('button[type="submit"]').should('be.disabled');
 
-  });
+  }); */
 
 
   it('should validate password meets all criteria and allow registration', () => {
