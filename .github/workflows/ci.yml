@@ -47,4 +47,4 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         push: true
-        tags: your_dockerhub_username/proyecto:latest
+        tags: newyork360/testinganddata:latest
