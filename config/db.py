@@ -1,6 +1,7 @@
+import pyodbc
 import os
-from sqlalchemy import create_engine, MetaData
 from dotenv import load_dotenv
+from sqlalchemy import create_engine, MetaData
 
 # Cargar variables de entorno desde .env
 load_dotenv()
@@ -13,21 +14,30 @@ DB_USER = os.getenv("DB_USER", "")
 DB_PASSWORD = os.getenv("DB_PASSWORD", "")
 DB_TRUSTED_CONNECTION = os.getenv("DB_TRUSTED_CONNECTION", "no")
 
-# Crear cadena de conexión
+# Crear cadena de conexión en el formato requerido con comillas dobles adicionales
 if DB_TRUSTED_CONNECTION.lower() == "yes":
     connection_string = (
-        f"mssql+pyodbc://@{DB_SERVER}/{DB_NAME}?driver={DB_DRIVER}&Trusted_Connection=yes"
+        f"DRIVER={{{DB_DRIVER}}};"
+        f"SERVER={DB_SERVER};"
+        f"DATABASE={DB_NAME};"
+        f"Trusted_Connection=yes;"
     )
 else:
     connection_string = (
-        f"mssql+pyodbc://{DB_USER}:{DB_PASSWORD}@{DB_SERVER}/{DB_NAME}?driver={DB_DRIVER}"
+        f"DRIVER={{{DB_DRIVER}}};"
+        f"SERVER={DB_SERVER};"
+        f"DATABASE={DB_NAME};"
+        f"UID={DB_USER};"
+        f"PWD={DB_PASSWORD};"
     )
 
 try:
-    # Crear motor de conexión con SQLAlchemy
-    engine = create_engine(connection_string)
-    meta = MetaData()
-    print("Conexión exitosa")
-
+        pyodbc_conn = pyodbc.connect(connection_string)
+        engine = create_engine("mssql+pyodbc://", creator=lambda: pyodbc_conn)
+        meta = MetaData()
+        print("Conexión exitosa")
+        
 except Exception as ex:
-    print(f"Error al conectar: {ex}")
+        print(ex)
+
+
